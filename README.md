@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0678-valid-parenthesis-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/msunil06/LeetCode-Problems/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/msunil06/LeetCode-Problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/msunil06/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
