@@ -19,7 +19,7 @@ public:
                 }
             }
         }
-        count += 2*depth;
-        return count;
+        
+        return count + 2*depth;
     }
 };
