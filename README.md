@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/msunil06/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/msunil06/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
