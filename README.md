@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/msunil06/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/msunil06/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/msunil06/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/msunil06/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/msunil06/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/msunil06/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/msunil06/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/msunil06/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/msunil06/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/msunil06/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
