@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/msunil06/LeetCode-Problems/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/msunil06/LeetCode-Problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/msunil06/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
+| [1757-recyclable-and-low-fat-products](https://github.com/msunil06/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
 |  |
 | ------- |
