@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/msunil06/LeetCode-Problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/msunil06/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/msunil06/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/msunil06/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/msunil06/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/msunil06/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/msunil06/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
