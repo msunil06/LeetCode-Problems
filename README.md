@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/msunil06/LeetCode-Problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/msunil06/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/msunil06/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/msunil06/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/msunil06/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/msunil06/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
@@ -159,4 +162,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/msunil06/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
