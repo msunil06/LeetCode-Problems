@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/msunil06/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/msunil06/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/msunil06/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/msunil06/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1470-shuffle-the-array](https://github.com/msunil06/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
