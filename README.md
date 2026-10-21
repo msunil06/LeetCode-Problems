@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/msunil06/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/msunil06/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/msunil06/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
