@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/msunil06/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/msunil06/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/msunil06/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/msunil06/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/msunil06/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/msunil06/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/msunil06/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
