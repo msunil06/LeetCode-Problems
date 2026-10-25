@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/msunil06/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/msunil06/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/msunil06/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/msunil06/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/msunil06/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/msunil06/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/msunil06/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
