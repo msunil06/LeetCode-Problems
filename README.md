@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/msunil06/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/msunil06/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/msunil06/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/msunil06/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/msunil06/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/msunil06/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/msunil06/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/msunil06/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/msunil06/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/msunil06/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/msunil06/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/msunil06/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/msunil06/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
 |  |
