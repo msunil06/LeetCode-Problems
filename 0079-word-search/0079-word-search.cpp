@@ -2,7 +2,7 @@ class Solution {
 public:
     int m,n;
     vector<vector<int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
-    bool find(string word,int i,int j, int idx,vector<vector<char>> &board){
+    bool find(string &word,int i,int j, int idx,vector<vector<char>> &board){
         if(idx == word.length()){
             return true;
         }
