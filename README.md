@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/msunil06/LeetCode-Problems/tree/master/0079-word-search) |
 | [0219-contains-duplicate-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/msunil06/LeetCode-Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/msunil06/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/msunil06/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/msunil06/LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/msunil06/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/msunil06/LeetCode-Problems/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/msunil06/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/msunil06/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/msunil06/LeetCode-Problems/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/msunil06/LeetCode-Problems/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/msunil06/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/msunil06/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/msunil06/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
