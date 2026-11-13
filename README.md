@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/msunil06/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/msunil06/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/msunil06/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/msunil06/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/msunil06/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
