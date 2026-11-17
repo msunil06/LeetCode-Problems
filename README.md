@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/msunil06/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/msunil06/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/msunil06/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/msunil06/LeetCode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/msunil06/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/msunil06/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/msunil06/LeetCode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/msunil06/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/msunil06/LeetCode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/msunil06/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/msunil06/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/msunil06/LeetCode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/msunil06/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/msunil06/LeetCode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
