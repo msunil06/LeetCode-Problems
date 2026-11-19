@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/msunil06/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/msunil06/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/msunil06/LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/msunil06/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/msunil06/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/msunil06/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/msunil06/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/msunil06/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/msunil06/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
